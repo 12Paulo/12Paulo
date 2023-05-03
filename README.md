@@ -34,16 +34,17 @@ Gosto bastante de ler e ouvir um bom rock'n'roll.
   - [Análise Exploratória - Mini Projeto](https://github.com/avmachado/python-dsa/tree/master/cap08-analise-exploratoria/mini-projeto)
   - [Web Scrapping do Reclame Aqui com Selenium](https://github.com/avmachado/webscrapping_reclameaqui)
   -->
-<!--
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+<!--
   - Exercícios do Curso [Big Data Analytics com R e Microsoft Azure Machine Learning](https://github.com/avmachado/r-dsa) - DSA
   - Soluções do curso [Introduction to Probability and Data with R]() - Duke University
   - [Análise Exploratória - Risco de Crédito]()
 -->
+![Powerbi](https://img.shields.io/badge/-powerbi-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117)&nbsp;
 <!--
-- <b>Visualização de Dados</b>
   - [Power BI]()
 -->
-<!--
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+<!--
+
 -->
