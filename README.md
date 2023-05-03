@@ -12,9 +12,9 @@
 
 #### Algumas das minhas formações:
 
-- Engenharia Civil (UENF) - Concluído
+- Engenharia (UENF) - Concluído
 - Mestrado em Modelagem Númerica e Simulação Computacional  (UENF) - Concluído
-- Curso de avaliação de imóveis urbanos por Inferência e Estatística (Certific.Net) - Concluído
+- Curso de avaliação por Inferência e Estatística (Certific.Net) - Concluído
 - BTC em Ciencia de Dados de Renda Fixa (IGTI) - Concluído
 - BTC em Desenvolvedor Python (IGTI) - Concluído
 - BTC Professional Azure Cloud Computing (IGTI) - Andamento
