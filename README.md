@@ -13,9 +13,10 @@ Iniciei meus estudos na área de Ciência de Dados em 2022 e me fascino a cada d
 
 #### Algumas das minhas formações:
 
-- 
-- 
-- 
+- Engenharia Civil (UENF) - Concluído
+- Mestrado Modelagem Númerica e Simulação Computacional  (UENF) - Concluído
+- BTC em Ciencia de Dados de Renda Fixa (IGTI) - Concluído
+- BTC em Desenvolvedor Python (IGTI) - Concluído
 
 
 #### Curiosidades
