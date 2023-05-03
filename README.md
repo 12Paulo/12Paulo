@@ -24,7 +24,7 @@ Gosto bastante de ler e ouvir um bom rock'n'roll.
 
 ### Repositórios
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-- <b>Python</b>
+
   - [Banco Relacional, Python e SQL para Analise de Dados](https://github.com/12Paulo/Analise-do-Indice-de-Massa-Corporal--IMC-/tree/main)
   <!--
   - [Exemplo de uso do Pipeline em Machine Learning](https://github.com/avmachado/pythonspark/blob/main/Desafio-Cap06-PCA-LR.ipynb)
