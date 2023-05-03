@@ -8,16 +8,17 @@
 </p>
 
 #### Sobre mim
-Sou natural do Rio de Janeiro, Engenheiro, e aspirante a Cientista de Dados. <br>
-Atuo na área de avaliação utilizando técnicas de Inferência e estatística desde 2014, tendo iniciado meus estudos na área de Ciência de Dados em 2022 e me fascino a cada dia mais por esse mundo cheio de possibilidades. <br>
+<br> Sou formado em engenharia e atuo desde 2014 na elaboração de laudos de avaliação de imóveis urbanos utilizando técnicas de inferência e estatística. Recentemente, comecei meus estudos em ciência de dados e estou fascinado pelas possibilidades deste mundo em constante evolução.<br>
 
 #### Algumas das minhas formações:
 
 - Engenharia Civil (UENF) - Concluído
 - Mestrado Modelagem Númerica e Simulação Computacional  (UENF) - Concluído
+- Curso de avaliação de imóveis urbanos por Inferência e Estatística (Certific.Net) - Concluído
 - BTC em Ciencia de Dados de Renda Fixa (IGTI) - Concluído
 - BTC em Desenvolvedor Python (IGTI) - Concluído
-
+- BTC Professional Azure Cloud Computing (IGTI) - Andamento
+- BTC em Desenvolvedor em NODE.JS (IGTI) - Andamento
 
 #### Curiosidades
 Gosto bastante de ler e ouvir um bom rock'n'roll.
