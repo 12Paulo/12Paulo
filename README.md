@@ -7,7 +7,6 @@
   <a href = "https://linkedin.com/in/paulo-césar-goncalves-pandino"><img src="linkedin1.png" width = 30px> </a>  
 </p>
 
-### Seja bem vindo (a)! 
 #### Sobre mim
 Sou natural do Rio de Janeiro, Engenheiro, e aspirante a Cientista de Dados. <br>
 Iniciei meus estudos na área de Ciência de Dados em 2022 e me fascino a cada dia mais por esse mundo cheio de possibilidades. <br>
@@ -33,10 +32,13 @@ Gosto bastante de ler e ouvir um bom rock'n'roll.
   - [List Comprehesions e função Lambda](https://github.com/avmachado/python-dsa/blob/master/cap04-arquivos-funcoes-builtin-modulos-pacotes/tratamento-de-arquivos-funcoes-builtin.ipynb)
   - [Análise Exploratória - Mini Projeto](https://github.com/avmachado/python-dsa/tree/master/cap08-analise-exploratoria/mini-projeto)
   - [Web Scrapping do Reclame Aqui com Selenium](https://github.com/avmachado/webscrapping_reclameaqui)
+<!--
 - <b>R</b>
   - Exercícios do Curso [Big Data Analytics com R e Microsoft Azure Machine Learning](https://github.com/avmachado/r-dsa) - DSA
   - Soluções do curso [Introduction to Probability and Data with R]() - Duke University
   - [Análise Exploratória - Risco de Crédito]()
+-->
+<!--
 - <b>Visualização de Dados</b>
   - [Power BI]()
 -->
