@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 <p align=center> 
   <a href = "https://linkedin.com/in/paulo-césar-goncalves-pandino"><img src="linkedin1.png" width = 30px> </a>  
 </p>
