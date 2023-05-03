@@ -33,8 +33,9 @@ Gosto bastante de ler e ouvir um bom rock'n'roll.
   - [List Comprehesions e função Lambda](https://github.com/avmachado/python-dsa/blob/master/cap04-arquivos-funcoes-builtin-modulos-pacotes/tratamento-de-arquivos-funcoes-builtin.ipynb)
   - [Análise Exploratória - Mini Projeto](https://github.com/avmachado/python-dsa/tree/master/cap08-analise-exploratoria/mini-projeto)
   - [Web Scrapping do Reclame Aqui com Selenium](https://github.com/avmachado/webscrapping_reclameaqui)
+  -->
 <!--
-- <b>R</b>
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
   - Exercícios do Curso [Big Data Analytics com R e Microsoft Azure Machine Learning](https://github.com/avmachado/r-dsa) - DSA
   - Soluções do curso [Introduction to Probability and Data with R]() - Duke University
   - [Análise Exploratória - Risco de Crédito]()
@@ -42,4 +43,7 @@ Gosto bastante de ler e ouvir um bom rock'n'roll.
 <!--
 - <b>Visualização de Dados</b>
   - [Power BI]()
+-->
+<!--
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 -->
