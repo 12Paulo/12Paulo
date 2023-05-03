@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-![Capa]()
 <p align=center> 
   <a href = "https://linkedin.com/in/paulo-césar-goncalves-pandino"><img src="linkedin1.png" width = 30px> </a>  
 </p>
 
-### Seja bem vindo (a)!
+### Seja bem vindo (a)! 
 #### Sobre mim
 Sou natural do Rio de Janeiro, Engenheiro, e aspirante a Cientista de Dados. <br>
 Iniciei meus estudos na área de Ciência de Dados em 2022 e me fascino a cada dia mais por esse mundo cheio de possibilidades. <br>
