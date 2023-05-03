@@ -9,7 +9,7 @@
 
 #### Sobre mim
 Sou natural do Rio de Janeiro, Engenheiro, e aspirante a Cientista de Dados. <br>
-Iniciei meus estudos na área de Ciência de Dados em 2022 e me fascino a cada dia mais por esse mundo cheio de possibilidades. <br>
+Atuo na área de avaliação utilizando técnicas de Inferência e estatística desde 2014, tendo iniciado meus estudos na área de Ciência de Dados em 2022 e me fascino a cada dia mais por esse mundo cheio de possibilidades. <br>
 
 #### Algumas das minhas formações:
 
