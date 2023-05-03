@@ -22,7 +22,7 @@ Gosto bastante de ler e ouvir um bom rock'n'roll.
 
 ### Repositórios
 - <b>Python</b>
-  - [Banco Relacional, Python e SQL para Analise de Dados](https://github.com/12Paulo/Analise-do-Indice-de-Massa-Corporal--IMC-/blob/main/Projeto1.ipynb)
+  - [Banco Relacional, Python e SQL para Analise de Dados](https://github.com/12Paulo/Analise-do-Indice-de-Massa-Corporal--IMC-/tree/main)
   <!--
   - [Exemplo de uso do Pipeline em Machine Learning](https://github.com/avmachado/pythonspark/blob/main/Desafio-Cap06-PCA-LR.ipynb)
   - [Explorando Estruturas de Dados](https://github.com/avmachado/python-dsa/blob/master/cap02-estruturas-de-dados/estruturas-de-dados.ipynb)
