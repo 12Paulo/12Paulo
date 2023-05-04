@@ -30,7 +30,7 @@ Gosto bastante de ler e ouvir um bom rock'n'roll.
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
   - [Banco Relacional, Python e SQL para Analise de Dados](https://github.com/12Paulo/Analise-do-Indice-de-Massa-Corporal--IMC-/tree/main)
-  - [Analise Exploratoria de dados com Python para Analise de Dados](https://github.com/12Paulo/Analise-do-Indice-de-Massa-Corporal--IMC-/tree/main)
+  - [Analise Exploratoria de dados com Python para Analise de Dados](https://github.com/12Paulo/Analise_de_Dados_de_RH/tree/main)
   <!--
   - [Exemplo de uso do Pipeline em Machine Learning](https://github.com/avmachado/pythonspark/blob/main/Desafio-Cap06-PCA-LR.ipynb)
   - [Explorando Estruturas de Dados](https://github.com/avmachado/python-dsa/blob/master/cap02-estruturas-de-dados/estruturas-de-dados.ipynb)
