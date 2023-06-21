@@ -33,7 +33,7 @@ Gosto bastante de ler e ouvir um bom rock'n'roll.
   - [Analise Exploratoria de dados com Python para Analise de Dados](https://github.com/12Paulo/Analise_de_Dados_de_RH/tree/main)
   - [Analise de Limpeza de dados de uma empresa de Telecom](https://github.com/12Paulo/Analise-e-Limpeza-de-dados-de-uma-empresa-de-Telecom/tree/main)
   - [Analise de retenção de clientes](https://github.com/12Paulo/Analise_de_retencao_clientes/tree/main)
-  - [Previsao de compra utilizando Market Basket Analysis](https://github.com/12Paulo/Previsao_compra_utilizando_Market_Analysis/tree/main)
+  - [Previsao de compra utilizando Market Basket Analysis](https://github.com/12Paulo/Previsao_compra_utilizando_Market_Basket_Analysis)
   <!--
   - [Exemplo de uso do Pipeline em Machine Learning](https://github.com/avmachado/pythonspark/blob/main/Desafio-Cap06-PCA-LR.ipynb)
   - [Explorando Estruturas de Dados](https://github.com/avmachado/python-dsa/blob/master/cap02-estruturas-de-dados/estruturas-de-dados.ipynb)
