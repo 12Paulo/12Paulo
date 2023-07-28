@@ -28,7 +28,7 @@ Gosto bastante de ler e ouvir um bom rock'n'roll.
 ![Matlab](https://img.shields.io/badge/-matlab-0D1117?style=for-the-badge&logo=matlab&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Ansys](https://img.shields.io/badge/-ansys-0D1117?style=for-the-badge&logo=ansys&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-- [Aplicativo para redução do custo de estruturas](https://github.com/12Paulo/Aplicativo_para_otimizacao_do_custo_de_estruturas/tree/main)
+- [Aplicativo para redução do custo de projeto estrutural](https://github.com/12Paulo/Aplicativo_para_otimizacao_do_custo_de_estruturas/tree/main)
 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
