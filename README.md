@@ -8,7 +8,9 @@
 </p>
 
 #### Sobre mim
-<br> Sou formado em engenharia e atuo desde 2014 na área de gestão de projetos, elaboração de projetos executivos e na elaboração de avaliação de imóveis urbanos utilizando técnicas de inferência e estatística. Possuo habilidades em desenvolvimento de ferramentas no Excel e Power BI que auxiliam na gestão de projetos. Além disso, tbm possuo conhecimentos em várias linguagens de programação, incluindo C++, Python, Javascript, GIT, e em bancos de dados NoSQL (MongoDB) e SQL (PostgreSQL, MySQL). Recentemente, comecei meus estudos em ciência de dados e estou fascinado pelas possibilidades deste mundo em constante evolução.<br>
+<br> Sou formado em engenharia e atuo desde 2014 na área de gestão de projetos, elaboração de projetos executivos e na elaboração de avaliação de imóveis urbanos utilizando técnicas de inferência e estatística. Possuo habilidades em desenvolvimento de ferramentas no Excel e Power BI que auxiliam na gestão de projetos. Além disso, tbm possuo conhecimentos em várias linguagens de programação, incluindo C++, Python, Javascript, GIT, e em bancos de dados NoSQL (MongoDB) e SQL (PostgreSQL, MySQL). 
+
+Recentemente, comecei meus estudos em ciência de dados e estou fascinado pelas possibilidades deste mundo em constante evolução.<br>
 
 #### Algumas das minhas formações:
 
@@ -17,8 +19,8 @@
 - Curso de avaliação por Inferência e Estatística (Certific.Net) - Concluído
 - BTC em Ciencia de Dados de Renda Fixa (IGTI) - Concluído
 - BTC em Desenvolvedor Python (IGTI) - Concluído
-- BTC Professional Azure Cloud Computing (IGTI) - Andamento
-- BTC em Desenvolvedor em NODE.JS (IGTI) - Andamento
+- BTC Professional Azure Cloud Computing (IGTI) - Concluído
+- BTC em Desenvolvedor em NODE.JS (IGTI) - Concluído
 
 #### Curiosidades
 Gosto bastante de ler e ouvir um bom rock'n'roll.
