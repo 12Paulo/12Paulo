@@ -58,6 +58,8 @@ Gosto bastante de ler e ouvir um bom rock'n'roll.
   - [Power BI]()
 -->
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Postgree](https://img.shields.io/badge/-postgree-0D1117?style=for-the-badge&logo=postgree&labelColor=0D1117&textColor=0D1117)&nbsp;
+![NoSQL](https://img.shields.io/badge/-NoSQL-0D1117?style=for-the-badge&logo=NoSQL&labelColor=0D1117&textColor=0D1117)&nbsp;
  - [API para controle de pedidos](https://github.com/12Paulo/API_Delivery/tree/main)
  - [API para conectar, cadastrar e gerenciar acesso](https://github.com/12Paulo/API_Conexao_Moongose_Express/tree/main)
  - [API gerenciamento de uma Petshop](https://github.com/12Paulo/API_de_Gerenciamento_Petshop/tree/main)
