@@ -54,6 +54,9 @@ Gosto bastante de ler e ouvir um bom rock'n'roll.
   - [Análise Exploratória - Risco de Crédito]()
 -->
 ![Powerbi](https://img.shields.io/badge/-powerbi-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117)&nbsp;
+ - [Dashboard de Vendas de automóveis](https://github.com/12Paulo/Dashboard_Vendas_de_automovel/tree/main)
+ - [Dashboard de Gestão de Obras](https://github.com/12Paulo/Dashboard_Gestao_de_obra/tree/main)
+ - [Dashboard de Análise de Fundos de Investimento Imobiliários](https://github.com/12Paulo/Dashboard_Analise_de_FIIs/tree/main) 
 <!--
   - [Power BI]()
 -->
